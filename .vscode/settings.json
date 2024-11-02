@@ -4,6 +4,7 @@
         "barrier": "cpp",
         "bitset": "cpp",
         "memory_resource": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "random": "cpp"
     }
 }
